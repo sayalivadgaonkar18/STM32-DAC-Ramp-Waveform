@@ -83,4 +83,5 @@ if (dac_value >= 4095)
 # Output
 
 Ramp waveform generated using DAC output pin.
+
 ![Output](https://github.com/sayalivadgaonkar18/STM32-DAC-Ramp-Waveform/blob/main/Images/Output.png?raw=true)
